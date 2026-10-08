@@ -1,0 +1,16 @@
+# Datasets
+datasets/
+
+# Credentials / secrets
+mysql-init.txt
+*.sql.bak
+.env
+.env.*
+!.env.example
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
